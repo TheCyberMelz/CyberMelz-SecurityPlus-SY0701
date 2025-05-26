@@ -38,11 +38,10 @@ I believe cybersecurity isn't just about tools — it's about protecting what ma
 
 ## Status
 
-- [x] Notes organized and uploaded by topic  
-- [x] Preparing for Security+ Exam (July 2024)  
-- [ ] Uploading MITRE mapping visuals and Sigma rule samples  
-- [ ] Adding Splunk query examples from live lab tests
-
+- ✔️ Security+ study notes organized and uploaded by topic 
+- ✔️ Hands-on learning in progress (Splunk, TryHackMe)
+- Preparing for Security+ Exam (July 2025)  
+- ⏳ More lab-based detections coming soon
 ---
 
 *Created by Melz | Self-Taught SOC Analyst in Training*
